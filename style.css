@@ -1,0 +1,12 @@
+/* Esta é a estilização para o header do projeto */
+header{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+}
+/* Esta é a estilização da lista não ordenada do projeto */
+ul{
+    display: flex;
+    gap: 5px;
+    list-style-type: none;
+}
